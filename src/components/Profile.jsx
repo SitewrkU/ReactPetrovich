@@ -5,7 +5,7 @@ const Profile = () => {
   return (
     <>
       <div className="profilecard"> 
-        <img src="src\pics\petrovich.png" alt="Petrovich" />
+        <img src="./petrovich.png" alt="Petrovich" />
         <div className='profile-content'>
           <h1>Петрович</h1>
           <p className='status'>Грибний гуру з 33-річним стажем</p>

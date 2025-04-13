@@ -2,6 +2,7 @@
   "name": "article",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://sitewrku.github.io/ReactPetrovich/",
   "type": "module",
   "scripts": {
     "dev": "vite",
